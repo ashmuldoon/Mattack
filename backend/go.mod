@@ -1,3 +1,3 @@
-module example.com/greetings
+module backend
 
 go 1.26.5
